@@ -1,4 +1,4 @@
-name: myegst_v1
+name: myTalker_v1
 channels:
   - pytorch
   - nvidia
