@@ -1,0 +1,24 @@
+name: db_server
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=2_gnu
+  - ca-certificates=2025.11.12=hbd8a1cb_0
+  - icu=73.1=h6a678d5_0
+  - libabseil=20250127.0=cxx17_h6a678d5_0
+  - libgcc=15.2.0=he0feb66_14
+  - libgcc-ng=15.2.0=h69a702a_14
+  - libgomp=15.2.0=he0feb66_14
+  - libprotobuf=5.29.3=h3cdef7c_1
+  - libstdcxx-ng=11.2.0=h1234567_1
+  - libzlib=1.3.1=hb25bd0a_0
+  - lz4-c=1.9.4=h6a678d5_1
+  - mysql-common=9.3.0=h0021b1a_3
+  - mysql-server=9.3.0=hefcd325_3
+  - openssl=3.6.0=h26f9b46_0
+  - xz=5.6.4=h5eee18b_1
+  - zlib=1.3.1=hb25bd0a_0
+  - zstd=1.5.7=h11fc155_0
+prefix: /home/zth/anaconda3/envs/db_server
