@@ -20,7 +20,7 @@ conda env create -f myTalker_v1.yml
 
 Before running the project, you need to download the required pre-trained models. Taking **EGSTalker** as an example, you can choose either of the following methods to download the model files:
 
-* **Open Source Community:** [ICIG/EGSTalker](https://huggingface.co/ICIG/EGSTalker) 
+* **Open Source Community:** [ICIG/EGSTalker](https://github.com/ICIG/EGSTalker) 
 * **Baidu Netdisk:** [百度网盘](https://pan.baidu.com/s/1osTDVG2hCA68Bx5cLVPKfg?pwd=2fpu) *(Extraction Code: `[2fpu]`)*
 
 > **Note:** After downloading, please extract the files and note the absolute path to the model directory.
